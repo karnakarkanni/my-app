@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 /package_lock.json
+.package_lock
+.pachage.json
+
+
 
 
 

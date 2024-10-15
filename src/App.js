@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <>
-    <div className="App" >
+    <div className="App">
       <h2>MARATI.KARNAKAR</h2>
       <h4>Email:<a href="">karnakarmaratikanni@kanni@gmail.com</a> </h4>
       <h4>Contact Number:<a href="">+916302948618</a> </h4>
